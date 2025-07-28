@@ -1,0 +1,7 @@
+﻿[2025-07-27 12:43:29] [INFO] [InitAllSetting.xaml] Initialization Completed
+
+[2025-07-27 12:43:29] [INFO] [Main.xaml]  Process Started
+
+[2025-07-27 12:43:29] [INFO] [GetEmailMessages.xaml] Connecting to inbox...
+
+[2025-07-27 12:43:35] [INFO] [GetEmailMessages.xaml] Get Email Message List Completed.

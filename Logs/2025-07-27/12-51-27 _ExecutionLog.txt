@@ -1,0 +1,19 @@
+﻿[2025-07-27 12:51:28] [INFO] [InitAllSetting.xaml] Initialization Completed
+
+[2025-07-27 12:51:28] [INFO] [Main.xaml]  Process Started
+
+[2025-07-27 12:51:28] [INFO] [GetEmailMessages.xaml] Connecting to inbox...
+
+[2025-07-27 12:51:33] [INFO] [GetEmailMessages.xaml] Get Email Message List Completed.
+
+[2025-07-27 12:51:36] [INFO] [ProcessEmailAttachments.xaml] Attachement bilet_WH_23775442.pdf Saved from Email Addresss henokyeshitila22@gmail.com
+
+[2025-07-27 12:51:36] [INFO] [ProcessEmailAttachments.xaml] Attachement bilet_WH_23866954.pdf Saved from Email Addresss henokyeshitila22@gmail.com
+
+[2025-07-27 12:51:36] [INFO] [ProcessEmailAttachments.xaml] Attachement bilet_WH_23428477.pdf Saved from Email Addresss henokyeshitila22@gmail.com
+
+[2025-07-27 12:51:36] [INFO] [ProcessEmailAttachments.xaml] Attachement bilet_WH_23866954.pdf Saved from Email Addresss henokyeshitila22@gmail.com
+
+[2025-07-27 12:51:36] [INFO] [ProcessEmailAttachments.xaml] No Attachments Found in Email: henokyeshitila22@gmail.com
+
+[2025-07-27 12:51:36] [INFO] [Main.xaml]  Process Completed
